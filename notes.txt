@@ -1,0 +1,15 @@
+<!-- Learn about box sizing border box -->
+
+Learn about ::after ::before properties okay
+    content, clear: both;
+
+Learn about space(around, between, evenly): Learn it properly
+
+learn the theory of justify-content and align-items. Difference of them.
+
+learn about nth-child() all properties and their theories
+
+
+justify-content : works horizontally
+
+align-items: works vertically
