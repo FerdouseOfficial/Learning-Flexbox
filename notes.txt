@@ -15,3 +15,6 @@ justify-content : works horizontally. works on main axis when it is row
 align-items: works vertically.works on cross axis.
 
 learn and read more about this 2 properties justify-content and align-items
+
+
+Also learn about order and wrap properties in Flex
