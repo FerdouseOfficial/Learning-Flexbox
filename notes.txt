@@ -10,6 +10,8 @@ learn the theory of justify-content and align-items. Difference of them.
 learn about nth-child() all properties and their theories
 
 
-justify-content : works horizontally
+justify-content : works horizontally. works on main axis when it is row
 
-align-items: works vertically
+align-items: works vertically.works on cross axis.
+
+learn and read more about this 2 properties justify-content and align-items
