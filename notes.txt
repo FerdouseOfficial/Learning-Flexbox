@@ -18,3 +18,20 @@ learn and read more about this 2 properties justify-content and align-items
 
 
 Also learn about order and wrap properties in Flex
+
+learn about order and orphans properties
+
+
+Flex basis learn about it. its as like as width. Its actually work like width
+
+also read about flex-grow;
+
+also about flex-shrink, grow,basis
+
+also their combination is :-flex: 1 0 100px;
+        (1) is flex-grow
+        (2) is flex shrink
+        (3) is flex-basis
+
+
+Now let go ahead create a project:-011
