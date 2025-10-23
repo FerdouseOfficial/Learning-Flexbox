@@ -35,3 +35,5 @@ also their combination is :-flex: 1 0 100px;
  
 
 Now let go ahead create a project:-011
+
+Learn about HTML Sementic Tags and Layouts
