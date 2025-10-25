@@ -52,4 +52,24 @@ li {
 .navbar .container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+.navbar .container ul {
+  display: flex;
+  gap: 3rem;
+}
+.navbar a:hover {
+  color: lightblue;
+  cursor: pointer;
+}
+
+/* Navbar Section Finished */
+
+/* Working with header now */
+
+.header {
+  background-color: #0151cc;
+  color: #fff;
+  min-height: 400px;
 }
