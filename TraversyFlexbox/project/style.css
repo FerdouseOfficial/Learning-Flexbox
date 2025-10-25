@@ -73,3 +73,37 @@ li {
   color: #fff;
   min-height: 400px;
 }
+
+.header h2 {
+  font-size: 3rem;
+  /* font-weight: bold; */
+}
+.header p{
+  font-size: 18px;
+}
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+section .box{
+  height: 250px;
+  width: 300px;
+  background-color: #0151cc;
+  margin-top: 6px;
+  border-radius: 10px;
+  color: #fff;
+}
+section .box h2{
+  padding: 20px;
+}
+section .box p{
+  padding: 10px;
+}
+
+section .container{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
